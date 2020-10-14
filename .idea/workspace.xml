@@ -20,27 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b1390b0-4a8e-4680-aae7-35af3889eb88" name="Default Changelist" comment="dados">
-      <change afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/dados/dados.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/crud-aplication" beforeDir="false" afterPath="$PROJECT_DIR$/client/crud-aplication" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/crud-aplication/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/crud-aplication/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/crud-aplication/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/crud-aplication/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/crud-aplication/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/crud-aplication/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/crud-aplication/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/crud-aplication/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/crud-aplication/src/dados/dados.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/crud-aplication/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/dados/dados.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/dados/dados.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,14 +51,21 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Laviny\Desktop\Irriga\crud-aplication\client" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602638776049</updated>
       <workItem from="1602638781815" duration="435000" />
-      <workItem from="1602639777483" duration="881000" />
+      <workItem from="1602639777483" duration="1040000" />
+      <workItem from="1602678376981" duration="274000" />
     </task>
     <task id="LOCAL-00001" summary="dados">
       <created>1602640303754</created>
@@ -101,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602640303754</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dados">
+      <created>1602640745227</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602640745227</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,9 +128,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="548" y="262" width="441" height="204" key="Github.ShareDialog/0.0.1366.728/1366.0.1280.680/2646.0.1280.680/3926.0.1280.680@0.0.1366.728" timestamp="1602639096682" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602640317457">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602640777146">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1280.680/2646.0.1280.680/3926.0.1280.680@0.0.1366.728" timestamp="1602640317457" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1280.680/2646.0.1280.680/3926.0.1280.680@0.0.1366.728" timestamp="1602640777146" />
   </component>
 </project>
