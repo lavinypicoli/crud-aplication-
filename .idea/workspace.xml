@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b1390b0-4a8e-4680-aae7-35af3889eb88" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/crud-aplication" beforeDir="false" afterPath="$PROJECT_DIR$/client/crud-aplication" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/crud-aplication/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/crud-aplication/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/crud-aplication/src/teste.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +31,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1iqcsH1EcMUjaN7IpWFdOYBk4Fd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,6 +45,20 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2b1390b0-4a8e-4680-aae7-35af3889eb88" name="Default Changelist" comment="" />
@@ -54,8 +67,12 @@
       <option name="presentableId" value="Default" />
       <updated>1602638776049</updated>
       <workItem from="1602638781815" duration="435000" />
+      <workItem from="1602639777483" duration="332000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -67,6 +84,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1602639002356">
@@ -77,5 +95,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="548" y="262" width="441" height="204" key="Github.ShareDialog/0.0.1366.728/1366.0.1280.680/2646.0.1280.680/3926.0.1280.680@0.0.1366.728" timestamp="1602639096682" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602640102723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1280.680/2646.0.1280.680/3926.0.1280.680@0.0.1366.728" timestamp="1602640102723" />
   </component>
 </project>
